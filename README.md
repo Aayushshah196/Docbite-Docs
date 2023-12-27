@@ -43,7 +43,7 @@ Discover the cutting-edge interface, DocBite, meticulously crafted to streamline
     <a href="https://github.com/Aayushshah196/Docbite-Docs/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/W7gtxH9Uri0">View Video Demo</a>
+    <a href="#sample-demo">View Video Demo</a>
     ·
     <a href="https://github.com/Aayushshah196/Docbite-Docs/issues">Report Bug</a>
     ·
@@ -169,7 +169,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ### Sample Demo
 
-https://user-images.githubusercontent.com/6877923/123006036-64e2e780-d3b7-11eb-922e-018994b32da5.mov
+<video width="560" height="315" controls>
+  <source src="./screenshots/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 <!-- CONTRIBUTING -->
@@ -198,9 +202,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Connect with our team members:
 
-| <a href = "https://github.com/Aayushshah196"><img src = "https://avatars.githubusercontent.com/u/50726045?v=4" width="144" style="border-radius:50%"></a> | <a href = "https://github.com/ADI13579"><img src = "https://media.licdn.com/dms/image/D5603AQF3WCHHbk2HVA/profile-displayphoto-shrink_800_800/0/1676447462232?e=1697068800&v=beta&t=JlIIYgkfvxVBGmEmUJ7163RH-4J02CQ1gFa5tizKpRs" width="144" style="border-radius:50%"></a> | <a href = "https://github.com/bishalbashyal33"><img src = "https://avatars.githubusercontent.com/u/63231700?v=4" width="144" style="border-radius:50%"></a> | <a href = "https://github.com/JanakSharma2055"><img src = "https://avatars.githubusercontent.com/u/60380225?v=4" width="144" style="border-radius:50%"></a> |
+<div align="center">
+
+| <a href = "https://github.com/Aayushshah196"><img src = "https://avatars.githubusercontent.com/u/50726045?v=4" width="144" style="border-radius:50%"></a> | <a href = "https://github.com/ADI13579"><img src = "https://media.licdn.com/dms/image/D5603AQF3WCHHbk2HVA/profile-displayphoto-shrink_200_200/0/1676447468869?e=1709164800&v=beta&t=qDRosANaTQZDF28UIBGODLjYI6z4_w4t8EsJXv5EdRE" width="144" style="border-radius:50%"></a> | <a href = "https://github.com/bishalbashyal33"><img src = "https://avatars.githubusercontent.com/u/63231700?v=4" width="144" style="border-radius:50%"></a> | <a href = "https://github.com/JanakSharma2055"><img src = "https://avatars.githubusercontent.com/u/60380225?v=4" width="144" style="border-radius:50%"></a> |
 | :-: | :-: | :-: | :-: |
 | [Aayush Shah Kanu](https://www.linkedin.com/in/aayush-shah-kanu) |[Adithya Pokharel](https://www.linkedin.com/in/adi13579/) | [Bishal Bashyal](https://www.linkedin.com/in/bishal-bashyal-80a261184/) | [Janak Sharma](https://www.linkedin.com/in/janaksharma/) |
+
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
